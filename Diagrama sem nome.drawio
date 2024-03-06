@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T17:06:59.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nuVkpxtkSogcu5KoTpXB" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T17:31:50.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HvMwUTE0oR5eApRjiHP4" version="24.0.2" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="512" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#AE4132;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-1" value="" style="line;strokeWidth=10;direction=south;html=1;fillColor=none;fontSize=13;fontColor=#000000;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="360" y="70" width="10" height="990" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
@@ -13,13 +13,13 @@
         <mxCell id="2a0f93b5c73ef8e7-3" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="168" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-4" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#FF0000;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="250" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-5" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="350" y="283" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-6" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#CCCC00;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="360" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-7" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -37,13 +37,13 @@
         <mxCell id="2a0f93b5c73ef8e7-11" value="5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="180" y="623" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#10739E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#FF0000;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="705" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-13" value="6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="350" y="738" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#F2931E;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#CCCC00;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="830" width="220" height="85" as="geometry" />
         </mxCell>
         <mxCell id="2a0f93b5c73ef8e7-15" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=30;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -64,20 +64,20 @@
         <mxCell id="2a0f93b5c73ef8e7-20" value="&lt;h1&gt;2017&lt;/h1&gt;&lt;p&gt;Foi um ano para conhecer a região de São Paulo e o ABC e no meio desse processo me inscrevi para um curso de manutenção no Senai Jacob Lafer&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="210" y="359.5" width="170" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-21" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-21" value="&lt;h1&gt;2018&lt;/h1&gt;&lt;p&gt;Ano em que iniciei técnico em mecatrônica pela Etec de Santo André&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="390" y="479" width="160" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-22" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-22" value="&lt;h1&gt;2019&lt;/h1&gt;&lt;p&gt;Estagiei em uma empresa de manutenção de caldeia por 3 meses e no final do ano terminei o curso&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="220" y="594" width="160" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-23" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="390" y="709" width="160" height="77" as="geometry" />
+        <mxCell id="2a0f93b5c73ef8e7-23" value="&lt;h1&gt;2020&lt;/h1&gt;&lt;p&gt;Comecei a estudar na Fatec Santo André em Eletrônica Automotiva. Logo com 2 meses de faculdade presencial foi para o online.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="385" y="709" width="170" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-24" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="2a0f93b5c73ef8e7-24" value="&lt;h1&gt;2023&lt;/h1&gt;&lt;p&gt;Retorno definitivo das aulas presenciais e fiz a entrega do meu TCC no final do ano&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="220" y="834" width="160" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="2a0f93b5c73ef8e7-25" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="390" y="950" width="160" height="77" as="geometry" />
+        <mxCell id="2a0f93b5c73ef8e7-25" value="&lt;h1&gt;2024&lt;/h1&gt;&lt;p&gt;Estou cumprindo a matéria que fiquei de DP na Fatec e comecei o Curso de Font-end&amp;nbsp; no Senai Conde José Vicente de Azevedo&amp;nbsp;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=4;fillColor=none;gradientColor=#007FFF;fontSize=9;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="945" width="160" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
